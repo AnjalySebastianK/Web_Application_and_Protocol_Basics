@@ -24,20 +24,20 @@ It uses **tags** to describe content such as headings, paragraphs, images, and l
     </html>
 
 ### Common Tags
-- <h1> to <h6> → headings  
-- <p> → paragraph  
-- <a> → link  
-- <img> → image  
-- <ul>, <ol>, <li> → lists  
-- <div>, <span> → generic containers  
+- `<h1>` to `<h6>` → headings  
+- `<p>` → paragraph  
+- `<a>` → link  
+- `<img>` → image  
+- `<ul>`, `<ol>`, `<li>` → lists  
+- `<div>`, `<span>` → generic containers  
 
 ### Semantic Elements
 Semantic tags describe meaning, not just layout:
-- <header>  
-- <nav>  
-- <section>  
-- <article>  
-- <footer>  
+- `<header>`  
+- `<nav>`  
+- `<section>`  
+- `<article>`  
+- `<footer>`  
 
 These improve accessibility and SEO.
 
